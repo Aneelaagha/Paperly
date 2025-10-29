@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Paperly Humaniser</title>
+  <meta http-equiv="Content-Security-Policy" content="script-src 'self'; object-src 'none'; base-uri 'none';">
+  <style>
+    :root { color-scheme: light dark; }
+    body { margin:0; font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif; }
+    .gate { position:fixed; inset:0; display:flex; align-items:center; justify-content:center; background:transparent; }
+    .card { width:320px; border-radius:12px; padding:16px; border:1px solid rgba(0,0,0,.12); background:rgba(255,255,255,.9);
+            box-shadow:0 8px 24px rgba(0,0,0,.18); }
+    .btn { appearance:none; border:1px solid rgba(0,0,0,.2); border-radius:10px; background:#0f1522; color:#E8EEFC; padding:10px 12px; cursor:pointer; width:100%; }
+    .hint { font-size:12px; color:#6b7280; margin:8px 0 0; }
+    @media (prefers-color-scheme: dark) {
+      .card { background:rgba(15,21,34,.92); color:#E8EEFC; border-color:rgba(255,255,255,.14); }
+      .btn { border-color:rgba(255,255,255,.18); }
+      .hint { color:#9fb0d3; }
+    }
+  </style>
+</head>
+<body>
+  <!-- No inline scripts allowed in MV3. -->
+  <script src="humaniser.js" defer></script>
+</body>
+</html>
