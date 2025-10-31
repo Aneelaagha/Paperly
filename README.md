@@ -28,6 +28,9 @@ Next, open **Google Chrome** and go to `chrome://extensions/`. At the top right,
 
 Once loaded, the **Paperly** icon will appear in your Chrome toolbar, ready to use.
 
+👉 You can also download it directly from:
+https://aneelaagha.com/paperly/
+
 ✅ **Paperly works fully offline and does not require any sign-in**  
 🧠 **Powered by Chrome’s built-in Gemini Nano AI**
 
