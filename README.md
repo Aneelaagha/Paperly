@@ -37,10 +37,10 @@ Once loaded, the **Paperly** icon will appear in your Chrome toolbar, ready to u
 
 Once installed, Paperly injects a minimal script into webpages you visit, enabling the following functionality:
 
-- 🔍 **Summarize** – Extracts the main ideas from long articles using Gemini Nano’s built-in summarization model
-- ✍️ **Rewrite** – Transforms complex or academic text into clear, natural language using local AI prompts
-- 🌐 **Translate** – Uses Chrome's native AI translation capabilities for quick and accurate language conversion
-- 📚 **Cite** – Automatically formats selected content into proper citations (APA, MLA, or Chicago) using pre-defined local templates
+- 🔍 **Summarize** – Extracts the main ideas from long articles using Summarizer API
+- ✍️ **Rewrite** – Transforms complex or academic text into clear, natural language using  Rewriter API
+- 🌐 **Translate** – Uses translator API and translate text into your preferred language. 
+- 📚 **Cite** – Paperly uses custom JavaScript functions to generate **APA**, **MLA**, and **Chicago** citations. It extracts metadata from the webpage (author, title, date) using HTML meta tags and content structure, then formats it using local logic — all without any external API calls.
 
 All processing happens **locally in your browser** using Chrome’s built-in capabilities. This ensures:
 - ✅ Full offline functionality
