@@ -1,5 +1,10 @@
-# 📄 **Paperly**  
-*Cite. Summarize. Humanize. Translate — All in one click.*
+<p align="center">
+  <img src="assets/icon128.jpeg" alt="Paperly Logo" width="60"/>
+</p>
+
+<h1 align="center"><b>Paperly</b></h1>
+<p align="center"><i>Cite. Summarize. Humanize. Translate. All in one click.</i></p>
+
 
 ## 🧰 Built With
 
@@ -14,3 +19,4 @@
 Whether you’re exploring research papers, blogs, or news articles, Paperly helps you **summarize, humanize, translate**, and **cite** content instantly.
 
 It’s **fast**, **private**, and works completely **offline** with **Chrome’s built-in AI** — no servers, no sign-ups, just pure productivity right inside your browser.
+
