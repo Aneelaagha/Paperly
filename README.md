@@ -20,3 +20,28 @@ Whether you’re exploring research papers, blogs, or news articles, Paperly hel
 
 It’s **fast**, **private**, and works completely **offline** with **Chrome’s built-in AI** — no servers, no sign-ups, just pure productivity right inside your browser.
 
+📥 How to Install Paperly (Manually)
+
+Follow these steps to install Paperly manually in Google Chrome:
+
+Download or clone this repository:
+
+git clone https://github.com/Aneelaagha/Paperly/.git
+
+
+Or click Code → Download ZIP, then extract the contents.
+
+Open Google Chrome and navigate to:
+chrome://extensions/
+
+Enable Developer mode using the toggle at the top right.
+
+Click Load unpacked.
+
+Select the extension/ folder from the cloned or extracted project.
+
+You’ll now see the Paperly icon appear in your Chrome toolbar.
+
+✅ Paperly works fully offline and does not require any sign-in
+🧠 Powered by Chrome’s built-in Gemini Nano AI
+
