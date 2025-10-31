@@ -49,3 +49,18 @@ All processing happens **locally in your browser** using Chrome’s built-in cap
 
 **Paperly does not require internet access, user sign-in, or any cloud-based APIs.** It’s optimized for students, writers, and researchers who need speed, clarity, and privacy — all in one place.
 
+## 🛠️ Troubleshooting
+
+If you run into issues installing or using **Paperly**, please check the following:
+
+- ✅ Make sure you are using **Google Chrome Dev** or **Canary**
+- ✅ Your Chrome version must be **138.0.0.0 or higher**
+  - You can check your version at: `chrome://settings/help`
+  - [Download Chrome Dev](https://www.google.com/chrome/dev/)
+
+- ✅ Ensure **Developer Mode** is enabled at `chrome://extensions/`
+- ✅ Double-check that you've selected the correct `extension/` folder when clicking **Load unpacked**
+- ✅ If the icon doesn't appear, try refreshing the browser or restarting Chrome
+
+> 🧠 Note: Paperly relies on **Gemini Nano**, which is only supported with sufficient disk space and memory.
+
