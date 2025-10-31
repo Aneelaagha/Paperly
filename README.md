@@ -30,3 +30,22 @@ Once loaded, the **Paperly** icon will appear in your Chrome toolbar, ready to u
 
 ✅ **Paperly works fully offline and does not require any sign-in**  
 🧠 **Powered by Chrome’s built-in Gemini Nano AI**
+
+## ⚙️ How It Works
+
+**Paperly** is a lightweight Chrome extension powered by **Gemini Nano**, Google’s on-device AI model integrated into the Chrome browser. It runs completely offline and securely inside your browser, without sending any data to external servers.
+
+Once installed, Paperly injects a minimal script into webpages you visit, enabling the following functionality:
+
+- 🔍 **Summarize** – Extracts the main ideas from long articles using Gemini Nano’s built-in summarization model
+- ✍️ **Rewrite** – Transforms complex or academic text into clear, natural language using local AI prompts
+- 🌐 **Translate** – Uses Chrome's native AI translation capabilities for quick and accurate language conversion
+- 📚 **Cite** – Automatically formats selected content into proper citations (APA, MLA, or Chicago) using pre-defined local templates
+
+All processing happens **locally in your browser** using Chrome’s built-in capabilities. This ensures:
+- ✅ Full offline functionality
+- ✅ Lightning-fast responses
+- ✅ Zero data sharing — your content stays on your device
+
+**Paperly does not require internet access, user sign-in, or any cloud-based APIs.** It’s optimized for students, writers, and researchers who need speed, clarity, and privacy — all in one place.
+
