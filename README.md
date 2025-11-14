@@ -30,6 +30,7 @@ Once loaded, the **Paperly** icon will appear in your Chrome toolbar, ready to u
 
 👉 You can also download it directly from:
 https://aneelaagha.com/paperly/
+https://chromewebstore.google.com/detail/paperly/nhbhpnedlocbicahkelidchjdanidnjf
 
 ✅ **Paperly works fully offline and does not require any sign-in**  
 🧠 **Powered by Chrome’s built-in Gemini Nano AI**
